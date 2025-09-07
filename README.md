@@ -10,7 +10,7 @@ _Inspired by code of [@redphx](https://github.com/redphx/poc-tuya-ble-fingerbot)
 
 Place the `custom_components` folder in your configuration directory (or add its contents to an existing `custom_components` folder). Alternatively install via [HACS](https://hacs.xyz/).
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=stevewrightnz&repository=ha_tuya_ble&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=cbeloch&repository=ha_tuya_ble&category=integration)
 
 ## Usage
 
@@ -47,6 +47,9 @@ The integration works locally, but connection to Tuya BLE device requires device
 
 * Irrigation computer (category_id 'ggq')
   + Irrigation computer (product_id '6pahkcau')
+
+* Smartlife (category_id 'zwjcy')
+  + Smartlife Plant Sensor SGS01 (product_id 'gvygg3m8')
 
 ## Support project
 The original support request still applies - I'm happy to contribute to the community without reward.  If you want to contribule please donate as below.
